@@ -1,3 +1,4 @@
+
 A TC ID generator application that creates Turkish identification numbers using the official algorithm.
 
 
